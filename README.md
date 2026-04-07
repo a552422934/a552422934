@@ -4,21 +4,13 @@
 
 ## 🎯 个人简介  
 
-<p align="center">
-  👨‍💻 <b>全栈BUG工程师</b> - 精通现代前端框架与工程化体系
-</p>
+ -  👨‍💻 <b>全栈BUG工程师</b> - 精通现代前端框架与工程化体系
 
-<p align="center">
-  🤖 AI 接口调用大师与代码缝合怪
-</p>
+ -  🤖 AI 接口调用大师与代码缝合怪
 
-<p align="center">
-  🏗️ 既能搭建可维护项目，也能在祖传屎山上继续优雅盖楼
-</p>
+ -  🏗️ 既能搭建可维护项目，也能在祖传屎山上继续优雅盖楼
 
-<p align="center">
-  🎯 做一个懂 AI、能落地、会摸鱼的前端选手
-</p>
+ -  🎯 做一个懂 AI、能落地、会摸鱼的前端选手
 
 ### 技术栈
 
@@ -33,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a552422934&hide_border=true&layout=compact" alt="Top Languages" title="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a552422934&theme=default" alt="Top Languages" title="Top Languages">
 </p>
 
 <p align="center">
